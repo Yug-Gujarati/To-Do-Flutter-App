@@ -1,18 +1,15 @@
-# todo
+✅ To-Do Flutter App
+A minimal and intuitive To-Do List application built with Flutter.
+This app allows users to:
 
-A new Flutter project.
+📝 Add tasks
 
-## Getting Started
+✅ Mark tasks as completed
 
-This project is a starting point for a Flutter application.
+✏️ Edit existing tasks
 
-A few resources to get you started if this is your first Flutter project:
+🗑️ Delete tasks
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔀 Rearrange task order with drag-and-drop
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# To-Do-Flutter-App" 
-"# To-Do-Flutter-App" 
+💾 Save all tasks persistently using SharedPreferences
