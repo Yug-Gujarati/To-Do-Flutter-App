@@ -13,3 +13,9 @@ This app allows users to:
 🔀 Rearrange task order with drag-and-drop
 
 💾 Save all tasks persistently using SharedPreferences
+
+
+How to run app
+- Download the project and open project in VS Code or Android Studio.
+- Write "Flutter Clean" command in terminal, after write flutter pub get.
+- If open in android studio click on run button on top right side, and if open in vs code go to menu bar run > run without debugging
